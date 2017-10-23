@@ -10,11 +10,13 @@ SLAM conferences:
 1.  Robotics: RSS/ICRA/IROS
 
 
-Conference tutorials on SLAM:
+Tutorials on SLAM:
 1. CVPR14 SLAM tutorial: http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/
 2. ICRA16 SLAM tutorial: http://www.dis.uniroma1.it/~labrococo/tutorial_icra_2016/
+3. On-manifold optimization: https://pixhawk.org/_media/dev/know-how/jlblanco2010geometry3d_techrep.pdf
 
 Tutorials on 3D Reconstruction:
 1.  KinectFusion
 2.  Voxel Hashing
 3.  Bundle Fusion
+4.  Elastic Fusion
