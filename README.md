@@ -20,3 +20,7 @@ Tutorials on 3D Reconstruction:
 2.  Voxel Hashing
 3.  Bundle Fusion
 4.  Elastic Fusion
+
+Tutorials on Image Understanding:
+1.  http://www.robots.ox.ac.uk/~vgg/practicals/overview/index.html
+Intro: A collection of MATLAB-based hands-on experiences introducing fundamental concepts in image understanding. Including deep learning and image classification.
